@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Julian%20Kerignard&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20language%20models%20%26%20world%20models%20from%20scratch&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Julian Kerignard" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Julian%20Kerignard&fontSize=50&fontColor=ffffff&fontAlignY=42" width="100%" alt="Julian Kerignard" />
 
 <div align="center">
 
@@ -74,13 +74,5 @@ Plus a write-up of the whole thing: [**julian-600m-paper**](https://huggingface.
 
 - **Model Context Protocol servers** — [Blender](https://github.com/JulianKerignard/Blender_MCP) · [Unity](https://github.com/JulianKerignard/MCP-Unity) · [Obsidian](https://github.com/JulianKerignard/MCP-obsidian) · [Trello](https://github.com/JulianKerignard/Trello_MCP) · [webcheck](https://github.com/JulianKerignard/mcp-webcheck)
 - [ClawdEngine_Rust](https://github.com/JulianKerignard/ClawdEngine_Rust) — a 3D engine in Rust &nbsp;·&nbsp; [StatsMonitor_MacOS](https://github.com/JulianKerignard/StatsMonitor_MacOS) — Swift
-
-<br />
-
-<div align="center">
-
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianKerignard&layout=compact&hide_border=true&card_width=440&theme=react&bg_color=0d1117&title_color=764ba2&text_color=c9d1d9)](https://github.com/JulianKerignard)
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" width="100%" alt="" />
