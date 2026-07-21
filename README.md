@@ -23,8 +23,6 @@ I train neural networks **from scratch**, mostly in **JAX / Flax**. Two lines of
 - **Language models** — the *Julian* family: bilingual (EN / FR) LLMs, from raw data to instruction-tuned chat, on TPU.
 - **World models** — *oneiro*: a from-scratch DreamerV3 agent that learns its entire policy inside the imagined rollouts of its own world model.
 
-> **[Chat with my AI &rarr;](https://github.com/JulianKerignard/ask-julian)** &nbsp;an assistant that knows my work (self-hosted, OpenRouter). Ask it about the models — in English or French.
-
 ## World model — oneiro
 
 <div align="center">
