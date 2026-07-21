@@ -41,7 +41,6 @@ Plus a write-up of the whole thing: [**julian-600m-paper**](https://huggingface.
 ## Datasets I built & published
 
 - [wikipedia-en-julian](https://huggingface.co/datasets/JulianKrgd/wikipedia-en-julian) &nbsp;·&nbsp; [wikipedia-fr-julian](https://huggingface.co/datasets/JulianKrgd/wikipedia-fr-julian) — the bilingual pretraining corpus
-- [HTML_CSS_CodeDataSet_100k](https://huggingface.co/datasets/Juliankrg/HTML_CSS_CodeDataSet_100k) &nbsp;·&nbsp; [CPP_DataSet_50k](https://huggingface.co/datasets/Juliankrg/CPP_DataSet_50k) &nbsp;·&nbsp; [Thinking_DataSet_300k](https://huggingface.co/datasets/Juliankrg/Thinking_DataSet_300k) — code & reasoning
 
 ## Training stack
 
