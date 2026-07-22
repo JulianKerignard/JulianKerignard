@@ -1,16 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Julian%20Kerignard&fontSize=50&fontColor=ffffff&fontAlignY=42" width="100%" alt="Julian Kerignard" />
-
 <div align="center">
 
-<a href="https://huggingface.co/JulianKrgd">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=764BA2&center=true&vCenter=true&width=640&lines=Training+LLMs+and+world+models+from+scratch;JAX+%2F+Flax+on+TPU+and+GPU;Julian+%E2%80%94+bilingual+EN+%2F+FR+language+models;oneiro+%E2%80%94+an+agent+that+learns+in+its+dreams" alt="What I do" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img src="./assets/hero-dark.svg" width="100%" alt="Julian Kerignard — AI / ML Engineer">
+</picture>
 
 <br />
 
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-JulianKrgd-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/JulianKrgd)
-[![Website](https://img.shields.io/badge/Website-juliankerignard.fr-667eea?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://juliankerignard.fr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julian%20Kerignard-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-kerignard-b9ab6a2bb)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-JulianKrgd-0d9488?style=for-the-badge&logo=huggingface&logoColor=FFD21E&labelColor=0d1117)](https://huggingface.co/JulianKrgd)
+[![Website](https://img.shields.io/badge/Website-juliankerignard.fr-0d9488?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0d1117)](https://juliankerignard.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julian%20Kerignard-0d9488?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/julian-kerignard-b9ab6a2bb)
 
 </div>
 
@@ -58,21 +58,46 @@ Plus a write-up of the whole thing: [**julian-600m-paper**](https://huggingface.
 
 **Datasets I built & published:** [wikipedia-en-julian](https://huggingface.co/datasets/JulianKrgd/wikipedia-en-julian) &nbsp;·&nbsp; [wikipedia-fr-julian](https://huggingface.co/datasets/JulianKrgd/wikipedia-fr-julian) — the bilingual pretraining corpus.
 
+## Other work
+
+| Project | What it is |
+|---------|------------|
+| [**Unity-Skills**](https://github.com/JulianKerignard/Unity-Skills) | 18 AI-powered skills for Unity 6+ — works with Claude Code, Cursor, Windsurf, Codex & Gemini CLI |
+| [**ask-julian**](https://github.com/JulianKerignard/ask-julian) | *Ask Julian's AI* — a profile chatbot built on Next.js + OpenRouter |
+| [**pokerbench**](https://github.com/JulianKerignard/pokerbench) | An LLM deception benchmark — probing social lying and alignment-faking |
+
 ## Training stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-4B0082?style=flat-square&logoColor=white)
-![Flax](https://img.shields.io/badge/Flax%20NNX-6E44FF?style=flat-square&logoColor=white)
-![Optax](https://img.shields.io/badge/Optax-8A2BE2?style=flat-square&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Safetensors](https://img.shields.io/badge/Safetensors-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Google Cloud TPU](https://img.shields.io/badge/TPU-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![SentencePiece](https://img.shields.io/badge/SentencePiece-333333?style=flat-square)
+![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-161b22?style=flat-square&logo=google&logoColor=white)
+![Flax NNX](https://img.shields.io/badge/Flax%20NNX-161b22?style=flat-square&logo=googlebrain&logoColor=white)
+![Optax](https://img.shields.io/badge/Optax-161b22?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-161b22?style=flat-square&logo=numpy&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-161b22?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![Safetensors](https://img.shields.io/badge/Safetensors-161b22?style=flat-square&logo=pytorch&logoColor=white)
+![TPU](https://img.shields.io/badge/Google%20Cloud%20TPU-161b22?style=flat-square&logo=googlecloud&logoColor=white)
+![SentencePiece](https://img.shields.io/badge/SentencePiece-161b22?style=flat-square)
 
 ## Tooling & systems
 
 - **Model Context Protocol servers** — [Blender](https://github.com/JulianKerignard/Blender_MCP) · [Unity](https://github.com/JulianKerignard/MCP-Unity) · [Obsidian](https://github.com/JulianKerignard/MCP-obsidian) · [Trello](https://github.com/JulianKerignard/Trello_MCP) · [webcheck](https://github.com/JulianKerignard/mcp-webcheck)
 - [ClawdEngine_Rust](https://github.com/JulianKerignard/ClawdEngine_Rust) — a 3D engine in Rust &nbsp;·&nbsp; [StatsMonitor_MacOS](https://github.com/JulianKerignard/StatsMonitor_MacOS) — Swift
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" width="100%" alt="" />
+## Languages
+
+<div align="center">
+
+<img src="./assets/languages.svg" width="480" alt="Most used languages: TypeScript, C#, HTML, Python, Rust, Luau, Swift" />
+
+</div>
+
+<!-- Contribution snake — generated by .github/workflows/snake.yml, committed to the `output` branch -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JulianKerignard/JulianKerignard/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JulianKerignard/JulianKerignard/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/JulianKerignard/JulianKerignard/output/github-snake-dark.svg" alt="A snake eating my GitHub contribution graph" />
+</picture>
+
+</div>
