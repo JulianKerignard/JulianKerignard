@@ -63,8 +63,6 @@ Plus a write-up of the whole thing: [**julian-600m-paper**](https://huggingface.
 | Project | What it is |
 |---------|------------|
 | [**Unity-Skills**](https://github.com/JulianKerignard/Unity-Skills) | 18 AI-powered skills for Unity 6+ — works with Claude Code, Cursor, Windsurf, Codex & Gemini CLI |
-| [**ask-julian**](https://github.com/JulianKerignard/ask-julian) | *Ask Julian's AI* — a profile chatbot built on Next.js + OpenRouter |
-| [**pokerbench**](https://github.com/JulianKerignard/pokerbench) | An LLM deception benchmark — probing social lying and alignment-faking |
 
 ## Training stack
 
