@@ -40,7 +40,7 @@ A from-scratch reimplementation of [**DreamerV3**](https://arxiv.org/abs/2301.04
 
 → [**JulianKerignard/oneiro**](https://github.com/JulianKerignard/oneiro)
 
-## Language models — the Julian family
+## LLM family
 
 ```
 Wikipedia EN/FR dumps  →  clean / tokenize (SentencePiece)  →
